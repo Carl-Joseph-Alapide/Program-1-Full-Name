@@ -1,0 +1,11 @@
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\bin\Debug\BSCOE 1-5 Program 1.exe.config
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\bin\Debug\BSCOE 1-5 Program 1.exe
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\bin\Debug\BSCOE 1-5 Program 1.pdb
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.csproj.AssemblyReference.cache
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE_1_5_Program_1.Form1.resources
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE_1_5_Program_1.Properties.Resources.resources
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.csproj.GenerateResource.cache
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.csproj.CoreCompileInputs.cache
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.exe
+C:\Users\Carl Joseph\source\repos\BSCOE 1-5 Program 1\obj\Debug\BSCOE 1-5 Program 1.pdb
